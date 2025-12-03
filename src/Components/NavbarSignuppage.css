@@ -1,0 +1,30 @@
+
+.Already {
+    margin: 0;
+    padding-right: 8px; 
+    color: #555; 
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin-left: 850px;
+}
+
+
+.signup-header-container {
+    display: flex;
+    justify-content: flex-end; 
+    width: 100%;
+    padding: 15px 30px; 
+    margin-left: 800px;
+}
+
+.Loginbtn {
+    color: #080808;
+    padding: 10px;
+    margin: 2px;
+    text-align: center;
+    background-color: #b8860a;
+    border-radius: 0.2rem;
+    border: 1px solid black;
+    font-weight: bolder;
+    text-decoration: none;
+}
